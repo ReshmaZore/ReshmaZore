@@ -1,6 +1,6 @@
 ![logo](https://github.com/ReshmaZore/ReshmaZore/blob/main/GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Reshma Zore</h1>
-<h3 align="center">🌟 Code architect crafting digital experiences | 💻 MERN stack magician turning ideas into solutions |🚀 AI/ML enthusiast ready to explore |🧩 DSA Enthusiast |📚 Pre-Final-year CSE student eager for new challenges | 💡 Let’s innovate and unlock tech’s potential together!🚀</h3>
+<h3 align="center">🌟 Crafting digital experiences | 💻 MERN stack Developer turning ideas into solutions |🚀 AI/ML enthusiast ready to explore |🧩 DSA Enthusiast |📚 Pre-Final-year CSE student eager for new challenges | 💡 Let’s innovate and unlock tech’s potential together!🚀</h3>
 <br>
 <img align="right" width="250" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
